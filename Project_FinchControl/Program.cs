@@ -248,7 +248,7 @@ namespace Project_FinchControl
                 DisplayScreenHeader("Get Theme Foreground");
                 Console.WriteLine("Enter The color you would like the text to be.");
                 Console.WriteLine("Color Options: Red, Green, Yellow, White, Cyan, Black, Blue,");
-                Console.WriteLine("DarkBlue, DarkCyan, DarkGray, DarkGreen, DarkMagenta,");
+                Console.WriteLine("DarkBlue, DarkCyan, DarkGry, DarkGreen, DarkMagenta,");
                 Console.WriteLine("DarkRed, DarkYellow, Gray, and Magenta. ");
                 Console.WriteLine("IMPORTANT: Write Colors as written");
                 Console.Write("Enter the Desired Text Color: ");
